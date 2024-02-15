@@ -21,7 +21,7 @@ pub enum Error {
 
 impl CombFilter {
     pub fn new(filter_type: FilterType, max_delay_secs: f32, sample_rate_hz: f32, num_channels: usize) -> Self {
-        todo!("implement")
+        todo!("I did not implement this but I have changed this message.")
     }
 
     pub fn reset(&mut self) {
